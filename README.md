@@ -54,7 +54,7 @@ Falcon Session هي أداة متقدمة مصممة لاختطاف الجلسا
 ### تثبيت Falcon Session
 1.  **استنساخ المستودع (Clone the repository):**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/FalconSession.git
+    git clone https://github.com/klash2124/FalconSession
     cd FalconSession
     ```
 
